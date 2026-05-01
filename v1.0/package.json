@@ -1,7 +1,7 @@
 {
-  "name": "sni-xhttp",
+  "name": "ehsan-web",
   "version": "1.0.0",
-  "description": "Serverless XHTTP relay for Xray/V2Ray on Vercel (Edge Runtime)",
+  "description": "ehsan",
   "private": true,
   "license": "MIT"
 }
