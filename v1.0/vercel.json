@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "sni-xhttp",
+  "name": "ehsan-web",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
